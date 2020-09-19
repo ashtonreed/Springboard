@@ -1,5 +1,5 @@
 # Predicting Urban Population
-For my first capstone project, I chose to use United Nations/World Bank data to predict the urban population of a country five years in the future. 
+For my first capstone project, I chose to use United Nations/World Bank data to predict the urban population of a country five years in the future. The primary dataset was downloaded from [here](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/) after opting to "Join the Competition". I have uploaded it [here](https://github.com/ashtonreed/Springboard/blob/master/Capstone1/TrainingSet.csv).
 
 First, I cleaned and merged the data in [this Jupyter notebook](https://github.com/ashtonreed/Springboard/blob/master/Capstone1/Capstone1_Data_Wrangling.ipynb).
 
