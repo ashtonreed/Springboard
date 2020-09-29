@@ -7,6 +7,11 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 
 
 ## Projects
+### Capstone Projects
+* [Capstone Project 1](https://github.com/ashtonreed/Springboard/tree/master/Capstone1)
+* Capstone Project 2 (Coming Soon)
+
+
 ### Mini-Projects 
 * [JSON Based Data Exercise](https://github.com/ashtonreed/Springboard/blob/master/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
 * [API Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/API/api_data_wrangling_mini_project.ipynb)
@@ -26,9 +31,7 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
   * Relax Inc. (Coming Soon)
 
 
-### Capstone Projects
-* [Capstone Project 1](https://github.com/ashtonreed/Springboard/tree/master/Capstone1)
-* Capstone Project 2 (Coming Soon)
+
  
  
  
