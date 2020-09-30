@@ -12,7 +12,7 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 * Capstone Project 2 (Coming Soon)
 
 
-### Mini-Projects 
+### [Mini-Projects](https://github.com/ashtonreed/Springboard/tree/master/Mini_Projects)
 * [JSON Based Data Exercise](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
 * [API Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/API/api_data_wrangling_mini_project.ipynb)
 * [SQL Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/sql_project.sql)
