@@ -13,18 +13,18 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 
 
 ### Mini-Projects 
-* [JSON Based Data Exercise](https://github.com/ashtonreed/Springboard/blob/master/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
-* [API Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/API/api_data_wrangling_mini_project.ipynb)
-* [SQL Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/sql_project.sql)
+* [JSON Based Data Exercise](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
+* [API Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/API/api_data_wrangling_mini_project.ipynb)
+* [SQL Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/sql_project.sql)
 * Inferential Statistics: 
-  * [Part IA: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb)
-  * [Part IB: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25.ipynb)
-  * [Part II: Bootstrap](https://github.com/ashtonreed/Springboard/blob/master/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
-  * [Part III:Bayesian](https://github.com/ashtonreed/Springboard/blob/master/Bayesian_stats_Q6.28/inferential_statistics_3-Q.ipynb)
-* [Linear Regression Using Boston Housing Data Set](https://github.com/ashtonreed/Springboard/blob/master/linear_regression/Mini_Project_Linear_Regression.ipynb)
-* [Heights and Weights Using Logistic Regression](https://github.com/ashtonreed/Springboard/blob/master/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
-* [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/ashtonreed/Springboard/blob/master/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
-* [Customer Segmentation Using Clustering](https://github.com/ashtonreed/Springboard/blob/master/clustering/Mini_Project_Clustering.ipynb)
+  * [Part IA: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb)
+  * [Part IB: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25.ipynb)
+  * [Part II: Bootstrap](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
+  * [Part III:Bayesian](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/Bayesian_stats_Q6.28/inferential_statistics_3-Q.ipynb)
+* [Linear Regression Using Boston Housing Data Set](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/linear_regression/Mini_Project_Linear_Regression.ipynb)
+* [Heights and Weights Using Logistic Regression](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
+* [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
+* [Customer Segmentation Using Clustering](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/clustering/Mini_Project_Clustering.ipynb)
 * Spark: Databricks Edition (Coming Soon)
 * Take Home Challenges
   * Ultimate Technologies Inc. (Coming Soon)
