@@ -16,7 +16,7 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 * [JSON Based Data Exercise](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
 * [API Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/API/api_data_wrangling_mini_project.ipynb)
 * [SQL Mini-Project](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/sql_project.sql)
-* Inferential Statistics: 
+* [Inferential Statistics](https://github.com/ashtonreed/Springboard/tree/master/Mini_Projects/inferential_statistics_frequentist_mini-projects6.28.19): 
   * [Part IA: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb)
   * [Part IB: Frequentist](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/inferential_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25.ipynb)
   * [Part II: Bootstrap](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
