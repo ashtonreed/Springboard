@@ -26,9 +26,6 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 * [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
 * [Customer Segmentation Using Clustering](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/clustering/Mini_Project_Clustering.ipynb)
 * Spark: Databricks Edition (Coming Soon)
-* Take Home Challenges
-  * Ultimate Technologies Inc. (Coming Soon)
-  * Relax Inc. (Coming Soon)
 
 
 
