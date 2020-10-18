@@ -9,7 +9,7 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 ## Projects
 ### Capstone Projects
 * [Capstone Project 1](https://github.com/ashtonreed/Springboard/tree/master/Capstone1)
-* Capstone Project 2 (Coming Soon)
+* [Capstone Project 2](https://github.com/ashtonreed/Springboard/tree/master/Capstone2)
 
 
 ### [Mini-Projects](https://github.com/ashtonreed/Springboard/tree/master/Mini_Projects)
