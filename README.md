@@ -25,7 +25,7 @@ If you have any questions, feel free to connect with me on [LinkedIn](https://ww
 * [Heights and Weights Using Logistic Regression](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
 * [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/naive_bayes/Mini_Project_Naive_Bayes.ipynb)
 * [Customer Segmentation Using Clustering](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/clustering/Mini_Project_Clustering.ipynb)
-* Spark: Databricks Edition (Coming Soon)
+* [Spark: Databricks Edition](https://github.com/ashtonreed/Springboard/blob/master/Mini_Projects/Spark_DF_SQL_ML_Exercise.ipynb) (Click [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3785859907374461/66259334733433/5450963543301718/latest.html) to view it on Databricks if the Jupyter Notebook on Github fails to load)
 
 
 
